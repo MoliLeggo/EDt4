@@ -11,11 +11,12 @@ public class Persona {
 		this.años = años;
 	}
 
-	/*
-	 * @return Metodo que pide un int referente a los años de persona y retorna la
-	 * respuesta correcta segun la edad introducida.
-	 * 
+	/**
 	 * @param años
+	 * 
+	 * @return Metodo que pide un int referente a los años de persona y retorna la
+	 *         respuesta correcta segun la edad introducida.
+	 * 
 	 */
 	public void CalcularAñosHastaJubilacion(int años) {
 
