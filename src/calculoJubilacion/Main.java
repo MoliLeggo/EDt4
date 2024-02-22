@@ -1,8 +1,10 @@
 package calculoJubilacion;
 
 import java.util.Scanner;
-/*
- * @autor Mariano
+/**
+ * Javadoc
+ * 
+ * @author Mariano
  */
 
 public class Main {

@@ -1,1 +1,1 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"calculoJubilacion","l":"Main"},{"p":"calculoJubilacion","l":"Persona"}];updateSearchResults();
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"calculoJubilacion","l":"Main"}];updateSearchResults();

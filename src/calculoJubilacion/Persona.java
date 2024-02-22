@@ -1,8 +1,9 @@
 package calculoJubilacion;
 
-/*
- * Class persona 
+/**
+ *@author Molinero 
  */
+
 public class Persona {
 
 	private int años;
@@ -12,11 +13,12 @@ public class Persona {
 	}
 
 	/**
+	 * Javadoc
+	 * 
 	 * @param años
 	 * 
-	 * @return Metodo que pide un int referente a los años de persona y retorna la
-	 *         respuesta correcta segun la edad introducida.
-	 * 
+	 * @return Metodo que pide un int referente a los años de persona y retorna la respuesta correcta segun la edad introducida.
+	 *         
 	 */
 	public void CalcularAñosHastaJubilacion(int años) {
 
